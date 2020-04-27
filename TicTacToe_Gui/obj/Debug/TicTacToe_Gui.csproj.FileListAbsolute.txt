@@ -1,0 +1,13 @@
+C:\Users\Mustafa Toprak\source\repos\Practicum 1 TicTacToe\TicTacToe_Gui\bin\Debug\TicTacToe_Gui.exe.config
+C:\Users\Mustafa Toprak\source\repos\Practicum 1 TicTacToe\TicTacToe_Gui\bin\Debug\TicTacToe_Gui.exe
+C:\Users\Mustafa Toprak\source\repos\Practicum 1 TicTacToe\TicTacToe_Gui\bin\Debug\TicTacToe_Gui.pdb
+C:\Users\Mustafa Toprak\source\repos\Practicum 1 TicTacToe\TicTacToe_Gui\obj\Debug\TicTacToe_Gui.csprojAssemblyReference.cache
+C:\Users\Mustafa Toprak\source\repos\Practicum 1 TicTacToe\TicTacToe_Gui\obj\Debug\TicTacToe_Gui.Form1.resources
+C:\Users\Mustafa Toprak\source\repos\Practicum 1 TicTacToe\TicTacToe_Gui\obj\Debug\TicTacToe_Gui.Properties.Resources.resources
+C:\Users\Mustafa Toprak\source\repos\Practicum 1 TicTacToe\TicTacToe_Gui\obj\Debug\TicTacToe_Gui.csproj.GenerateResource.cache
+C:\Users\Mustafa Toprak\source\repos\Practicum 1 TicTacToe\TicTacToe_Gui\obj\Debug\TicTacToe_Gui.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa Toprak\source\repos\Practicum 1 TicTacToe\TicTacToe_Gui\obj\Debug\TicTacToe_Gui.exe
+C:\Users\Mustafa Toprak\source\repos\Practicum 1 TicTacToe\TicTacToe_Gui\obj\Debug\TicTacToe_Gui.pdb
+C:\Users\Mustafa Toprak\source\repos\Practicum 1 TicTacToe\TicTacToe_Gui\bin\Debug\TicTacToe Library.dll
+C:\Users\Mustafa Toprak\source\repos\Practicum 1 TicTacToe\TicTacToe_Gui\bin\Debug\TicTacToe Library.pdb
+C:\Users\Mustafa Toprak\source\repos\Practicum 1 TicTacToe\TicTacToe_Gui\obj\Debug\TicTacToe_Gui.csproj.CopyComplete
