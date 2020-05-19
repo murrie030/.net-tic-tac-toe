@@ -31,11 +31,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mustafa Toprak\\source\\repos\\Practicum 1 TicTacToe\\TicTacToe Console\\TicTacToe_Console.csproj",
+      "projectUniqueName": "D:\\Documenten\\HBO-ICT\\Vakken leerjaar 2\\Blok D\\Programmeren in .NET\\Practicum 1 - TicTacToe\\TicTacToe Console\\TicTacToe_Console.csproj",
       "projectName": "TicTacToe_Console",
-      "projectPath": "C:\\Users\\Mustafa Toprak\\source\\repos\\Practicum 1 TicTacToe\\TicTacToe Console\\TicTacToe_Console.csproj",
+      "projectPath": "D:\\Documenten\\HBO-ICT\\Vakken leerjaar 2\\Blok D\\Programmeren in .NET\\Practicum 1 - TicTacToe\\TicTacToe Console\\TicTacToe_Console.csproj",
       "packagesPath": "C:\\Users\\Mustafa Toprak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mustafa Toprak\\source\\repos\\Practicum 1 TicTacToe\\TicTacToe Console\\obj\\",
+      "outputPath": "D:\\Documenten\\HBO-ICT\\Vakken leerjaar 2\\Blok D\\Programmeren in .NET\\Practicum 1 - TicTacToe\\TicTacToe Console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mustafa Toprak\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,8 +51,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Mustafa Toprak\\source\\repos\\Practicum 1 TicTacToe\\TicTacToe Library\\TicTacToe_Library.csproj": {
-              "projectPath": "C:\\Users\\Mustafa Toprak\\source\\repos\\Practicum 1 TicTacToe\\TicTacToe Library\\TicTacToe_Library.csproj"
+            "D:\\Documenten\\HBO-ICT\\Vakken leerjaar 2\\Blok D\\Programmeren in .NET\\Practicum 1 - TicTacToe\\TicTacToe Library\\TicTacToe_Library.csproj": {
+              "projectPath": "D:\\Documenten\\HBO-ICT\\Vakken leerjaar 2\\Blok D\\Programmeren in .NET\\Practicum 1 - TicTacToe\\TicTacToe Library\\TicTacToe_Library.csproj"
             }
           }
         }
