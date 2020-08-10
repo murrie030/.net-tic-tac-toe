@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "kuvcw5CDO407A9znhRtqke1sX/6QXjKJMr27dRrdyakkfh/8gH3rhQnMwtXwuFiORfKpTMSDKmP3LdH5mbS7qg==",
+  "dgSpecHash": "z/szJQUFpcTcgfQBTYJgErExhaJhnmj0J8VQVN06jrgesUtPUuVdHPvYaQRzaRk9O97AiCXT2XC9w1Zk+ylwnQ==",
   "success": true,
   "projectFilePath": "D:\\Documenten\\HBO-ICT\\Vakken leerjaar 2\\Blok D\\Programmeren in .NET\\Practicum 1 - TicTacToe\\TicTacToe Console\\TicTacToe_Console.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Mustafa Toprak\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

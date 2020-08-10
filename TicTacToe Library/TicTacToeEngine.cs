@@ -134,6 +134,68 @@ namespace TicTacToe_Library
         }
 
 
+        /* This method checks whether the input in the console
+         * is correct or not
+         */
+        public void CheckInputConsole()
+        {
+            string nextSet = Console.ReadLine();
+
+            // Check the input for the users next set
+            switch (nextSet)
+            {
+                // If the input is new, the game will be reset
+                case "new":
+                    Reset();
+                    break;
+                case "quit":
+                    Environment.Exit(0);
+                    break;
+                default:
+                    try
+                    {
+                        Int32.TryParse(nextSet, out int cell);
+                        ChooseCell(cell);
+                    }
+                    catch (Exception e)
+                    {
+                        Console.WriteLine(e.Message);
+                    }
+                    break;
+            }
+        }
+
+
+        /* This method updates the status for the console
+         * application
+         */
+        public void UpdateStatusConsole()
+        {
+            // Update the status with a switch case
+            switch (Status)
+            {
+                case (GameStatus.PlayerOWins):
+                    Console.WriteLine("Congratulations, player O won!");
+                    Console.WriteLine(Board());
+                    Console.WriteLine(".............................. NEW GAME ..............................");
+                    Reset();
+                    break;
+                case (GameStatus.PlayerXWins):
+                    Console.WriteLine("Congratulations, player X won!");
+                    Console.WriteLine(Board());
+                    Console.WriteLine(".............................. NEW GAME ..............................");
+                    Reset();
+                    break;
+                case (GameStatus.Equal):
+                    Console.WriteLine("Tie!");
+                    Console.WriteLine(Board());
+                    Console.WriteLine(".............................. NEW GAME ..............................");
+                    Reset();
+                    break;
+            }
+        }
+
+
         /* This method resets the board when the game has ended
          * You can also reset the game while you are not finished yet
          */
